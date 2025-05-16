@@ -1,6 +1,6 @@
 # Kazakhstan Constitutional AI Assistant
 
-An intelligent legal research assistant** that provides instant answers about Kazakhstan's Constitution using advanced AI technology. The system analyzes constitutional text and delivers accurate responses with direct citations to relevant articles.
+An intelligent legal research assistant that provides instant answers about Kazakhstan's Constitution using advanced AI technology. The system analyzes constitutional text and delivers accurate responses with direct citations to relevant articles.
 
 ## Features
 
